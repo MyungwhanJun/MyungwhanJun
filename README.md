@@ -7,7 +7,7 @@
    * ㅏ니ㅓㅣㅏ라너ㅣㅏㄹ너ㅣㅏㄹㅇ
 
 ### 링크 연결하기 
- * 화면 이동하기 [이동](https://chatgpt.com/share/67fed64f-a2ec-800b-b781-a19aa23e3c45)
+ * 타이타닉 머신런닝 [이동](https://chatgpt.com/share/67fed64f-a2ec-800b-b781-a19aa23e3c45)
 
 
 ## Hi there 👋
