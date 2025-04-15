@@ -8,6 +8,7 @@
 
 ### 링크 연결하기 
  * 타이타닉 머신런닝 [이동](https://chatgpt.com/share/67fed64f-a2ec-800b-b781-a19aa23e3c45)
+ * 온라인 책 공유 [이동](https://wikidocs.net/)
 
 
 ## Hi there 👋
